@@ -9,5 +9,5 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Amachono/N-SNG/refs/h
 # License
 I am not responsible for the damage no matter which way it is, good or bad, I am still not responsible for it.
 
-Credits to
+Credits to Kramos 
 
